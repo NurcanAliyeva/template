@@ -1,0 +1,59 @@
+*{
+    background-color: rgb(4, 4, 63);
+    color: white;
+    font-size: x-large;
+    margin: 0;
+    padding: 0;
+
+ }
+ 
+
+.text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    background-color: rgb(8, 139, 159);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.text2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.p1{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button1{
+    background-color: rgb(8, 139, 159);
+    
+}
+.button2{
+    background-color: rgb(8, 139, 159);
+
+}
+.card,.card-credit,.card-body,.card-title,.card-text{
+    background-color: white;
+    color: black;
+}
+ 
+
+
+   
+
+ 
+  
